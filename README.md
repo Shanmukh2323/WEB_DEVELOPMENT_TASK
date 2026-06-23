@@ -1,6 +1,27 @@
 # Fintech Transfer Success UI
 
-This project is a pixel-perfect implementation of the provided Fintech Transfer Success screen using only HTML and CSS.
+A responsive frontend implementation of the provided Fintech Transfer Success screen using only HTML and CSS.
+
+## Features
+
+* Pure HTML5 and CSS3
+* Responsive layout
+* Poppins font
+* SVG-based icons
+* Clean and organized code structure
+* No JavaScript
+* No CSS frameworks
+* No external UI libraries
+
+## Project Structure
+
+```text
+fintech-ui/
+│
+├── index.html
+├── style.css
+└── README.md
+```
 
 ## Technologies Used
 
@@ -8,23 +29,17 @@ This project is a pixel-perfect implementation of the provided Fintech Transfer 
 * CSS3
 * Google Fonts (Poppins)
 
-## Features
+## How to Run
 
-* Responsive layout
-* Clean and structured code
-* Pure HTML and CSS implementation
-* SVG-based icons
-* Mobile-friendly design
+1. Download or clone the repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in a browser or use the Live Server extension.
 
-## Project Structure
+## Objective
 
-fintech-ui/
-├── index.html
-├── style.css
-└── README.md
+The goal of this project was to replicate the provided UI design as closely as possible while maintaining clean, responsive, and well-structured code.
 
 ## Author
 
 Shanmukha Rao Sahukari
-<img width="1920" height="1377" alt="screencapture-127-0-0-1-5500-index-html-2026-06-24-00_51_21" src="https://github.com/user-attachments/assets/df987a4c-0065-46ed-b3a1-d1c4e237e08a" />
-
+<img width="1920" height="1377" alt="screencapture-127-0-0-1-5500-index-html-2026-06-24-00_51_21" src="https://github.com/user-attachments/assets/1aedf640-c856-4d44-993b-43a9307350d5" />
